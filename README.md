@@ -5,4 +5,4 @@ Anni Aavik,
 Kaspar Vakkum,
 Raiko Toomsalu,
 Markus Timofejev,
-Timo Loho,
+Timo Loho
